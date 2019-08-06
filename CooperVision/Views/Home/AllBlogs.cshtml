@@ -1,0 +1,42 @@
+﻿@model IEnumerable<CooperVision.Models.BlogsViewModel>
+
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>Simple Blog Application</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateBlog")
+</p>
+<table class="table">
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <h3>
+                    @Html.DisplayFor(modelItem => item.BlogTitle)
+                </h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @item.CreatedDateTime.ToString("MM/dd/yyyy")
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <p class="blog-text">
+                    @Html.DisplayFor(modelItem => item.BlogContent)
+                </p>
+                @Html.ActionLink("Continue Reading.......", "GetBlogById", "Home", new { blogId = item.ID }, null)
+            </td>
+        </tr>
+
+
+    }
+
+</table>

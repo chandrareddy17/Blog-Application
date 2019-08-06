@@ -1,0 +1,13 @@
+D:\CooperVision\CooperVision.Services\obj\Debug\CooperVision.Services.csprojAssemblyReference.cache
+D:\CooperVision\CooperVision.Services\obj\Debug\CooperVision.Services.csproj.CoreCompileInputs.cache
+D:\CooperVision\CooperVision.Services\bin\Debug\CooperVision.Services.dll.config
+D:\CooperVision\CooperVision.Services\bin\Debug\CooperVision.Services.dll
+D:\CooperVision\CooperVision.Services\bin\Debug\CooperVision.Services.pdb
+D:\CooperVision\CooperVision.Services\bin\Debug\CooperVision.Repository.dll
+D:\CooperVision\CooperVision.Services\bin\Debug\EntityFramework.dll
+D:\CooperVision\CooperVision.Services\bin\Debug\CooperVision.Repository.pdb
+D:\CooperVision\CooperVision.Services\bin\Debug\CooperVision.Repository.dll.config
+D:\CooperVision\CooperVision.Services\bin\Debug\EntityFramework.xml
+D:\CooperVision\CooperVision.Services\obj\Debug\CooperVision.Services.csproj.CopyComplete
+D:\CooperVision\CooperVision.Services\obj\Debug\CooperVision.Services.dll
+D:\CooperVision\CooperVision.Services\obj\Debug\CooperVision.Services.pdb

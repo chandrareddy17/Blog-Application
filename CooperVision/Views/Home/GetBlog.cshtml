@@ -1,0 +1,38 @@
+﻿@model CooperVision.Models.BlogViewModel
+
+
+@{
+    ViewBag.Title = "GetBlog";
+    var comment = new CooperVision.Models.CommentViewModel
+    {
+        BlogId = Model.ID
+    };
+}
+
+<h2>Simple Blog Application</h2>
+
+<div>
+   
+    <hr />
+
+    <h3>
+        @Html.DisplayFor(model => model.BlogTitle)
+    </h3>
+    <br />
+    @Html.DisplayFor(model => model.BlogContent)
+    <h3>
+        Comments
+    </h3>
+    @foreach (var item in Model.CommentViewModel)
+    {
+        @item.CreatedDateTime.ToString("MM/dd/yyyy")
+        <br />
+        @item.CommentDescription
+        <br/>
+        <br/>
+        
+    }
+    @Html.Partial("_AddComment", comment)
+
+</div>
+

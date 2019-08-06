@@ -1,0 +1,2 @@
+D:\CooperVision\CooperVision.Test\obj\Debug\CooperVision.Test.csprojAssemblyReference.cache
+D:\CooperVision\CooperVision.Test\obj\Debug\CooperVision.Test.csproj.CoreCompileInputs.cache

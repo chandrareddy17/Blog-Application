@@ -1,0 +1,12 @@
+D:\CooperVision\CooperVision.Repository\bin\Debug\CooperVision.Repository.dll.config
+D:\CooperVision\CooperVision.Repository\bin\Debug\CooperVision.Repository.dll
+D:\CooperVision\CooperVision.Repository\bin\Debug\CooperVision.Repository.pdb
+D:\CooperVision\CooperVision.Repository\bin\Debug\EntityFramework.dll
+D:\CooperVision\CooperVision.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\CooperVision\CooperVision.Repository\bin\Debug\EntityFramework.xml
+D:\CooperVision\CooperVision.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\CooperVision\CooperVision.Repository\obj\Debug\CooperVision.Repository.csprojAssemblyReference.cache
+D:\CooperVision\CooperVision.Repository\obj\Debug\CooperVision.Repository.csproj.CoreCompileInputs.cache
+D:\CooperVision\CooperVision.Repository\obj\Debug\CooperVision.Repository.csproj.CopyComplete
+D:\CooperVision\CooperVision.Repository\obj\Debug\CooperVision.Repository.dll
+D:\CooperVision\CooperVision.Repository\obj\Debug\CooperVision.Repository.pdb
